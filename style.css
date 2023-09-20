@@ -1,5 +1,7 @@
 *{
     font-family:"Permanent Marker", cursive;
+    background-color: black;
+    color: seashell;
 
 }
 #gameContainer{
@@ -10,7 +12,7 @@
     margin: 0px auto;
 
 }
-#score{
+#scoreText{
     font-size: 100px;
 }
 #resetBtn{
